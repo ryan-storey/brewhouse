@@ -8,7 +8,7 @@ In order for the software to work on your system, you should have python 3.8 or 
 Extract all of the files of the barnabys_brewhouse.zip file to the **same directory**,
 Open a cmd terminal by going to the search bar and entering cmd,
 Enter cd <your directory where you extracted the files>,
-Enter 	python brewhouse.py
+Enter 	python main.py
 The program should compile and the software window should appear.
 
 ### Manual
