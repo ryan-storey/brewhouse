@@ -5,7 +5,7 @@ This software is for managing the processes, equipment, and inventory for the br
 In order for the software to work on your system, you should have python 3.8 or higher installed (install it here: https://www.python.org/downloads/release/python-380/).
 
 ### Getting started
-Extract all of the files of the barnabys_brewhouse.zip file to the **same directory**,
+Extract all of the files of repositry to the **same directory**,
 Open a cmd terminal by going to the search bar and entering cmd,
 Enter cd <your directory where you extracted the files>,
 Enter 	python main.py
