@@ -1,0 +1,663 @@
+Invoice Number,Customer,Date Required,Recipe,Gyle Number,Quantity ordered
+202,Jaded Palates,02-Nov-18,Organic Red Helles,90,12
+202,Jaded Palates,02-Nov-18,Organic Red Helles,90,9
+205,Broadhempston Community Shop,09-Nov-18,Organic Red Helles,90,53
+208,Ben's Farm Shop - Staverton,14-Nov-18,Organic Red Helles,90,7
+210,The Kings Arms,14-Nov-18,Organic Red Helles,90,12
+209,Ben's Farm Shop - Totnes,16-Nov-18,Organic Red Helles,90,10
+213,Jaded Palates,22-Nov-18,Organic Red Helles,90,19
+213,Jaded Palates,22-Nov-18,Organic Red Helles,90,25
+215,Riverford Dairy,22-Nov-18,Organic Red Helles,90,22
+214,The Green Table Cafe,22-Nov-18,Organic Red Helles,90,34
+217,Ben's Farm Shop - Totnes,25-Nov-18,Organic Red Helles,90,22
+218,The Kings Arms,27-Nov-18,Organic Red Helles,90,36
+229,The Living Room Devon,01-Dec-18,Organic Red Helles,90,51
+228,Fermoys Garden Centre,06-Dec-18,Organic Red Helles,100,30
+228,Fermoys Garden Centre,06-Dec-18,Organic Red Helles,100,36
+225,The Green Table Cafe,06-Dec-18,Organic Red Helles,100,9
+231,Ben's Farm Shop - Staverton,07-Dec-18,Organic Red Helles,100,32
+230,Ben's Farm Shop Exeter,08-Dec-18,Organic Red Helles,90,53
+232,Ben's Farm Shop Exeter,10-Dec-18,Organic Red Helles,100,30
+237,Colleen,13-Dec-18,Organic Red Helles,100,24
+236,The Green Table Cafe,13-Dec-18,Organic Red Helles,100,26
+241,Riverford Dairy,15-Dec-18,Organic Red Helles,100,104
+240,The Kings Arms,15-Dec-18,Organic Red Helles,100,11
+246,Ben's Farm Shop - Staverton,20-Dec-18,Organic Red Helles,100,9
+250,The Kings Arms,21-Dec-18,Organic Red Helles,100,17
+251,Ben's Farm Shop - Staverton,24-Dec-18,Organic Red Helles,100,28
+255,Dartington Trading Company Ltd,10-Jan-19,Organic Red Helles,100,12
+256,Jaded Palates,12-Jan-19,Organic Red Helles,100,36
+257,Harvest Farm Shop,13-Jan-19,Organic Red Helles,100,36
+262,Buckfastleigh Cinema,03-Feb-19,Organic Red Helles,100,11
+261,The Kings Arms,03-Feb-19,Organic Red Helles,100,17
+264,Wildmoor Deli,06-Feb-19,Organic Red Helles,100,8
+265,Broadhempston Community Shop,08-Feb-19,Organic Red Helles,100,10
+271,Alexine,09-Feb-19,Organic Red Helles,100,31
+269,Majestic Wine Warehouse Ltd,12-Feb-19,Organic Red Helles,100,12
+274,Ashby's of Kingsbridge,16-Feb-19,Organic Red Helles,100,15
+279,Ben's Farm Shop - Staverton,20-Feb-19,Organic Red Helles,100,30
+276,The Green Table Cafe,20-Feb-19,Organic Red Helles,100,14
+280,The Kings Arms,21-Feb-19,Organic Red Helles,100,9
+281,Harvest Farm Shop,24-Feb-19,Organic Red Helles,100,51
+282,Gary Burton-Jackson,27-Feb-19,Organic Red Helles,100,53
+286,Fermoys Garden Centre,02-Mar-19,Organic Red Helles,100,15
+286,Fermoys Garden Centre,02-Mar-19,Organic Red Helles,100,15
+288,Barnaby Harris,08-Mar-19,Organic Red Helles,100,35
+287,Johns of Appledore,08-Mar-19,Organic Red Helles,100,26
+293,Button Farm,13-Mar-19,Organic Red Helles,100,30
+295,Ben's Farm Shop - Staverton,14-Mar-19,Organic Red Helles,100,25
+297,Real Food Exeter,17-Mar-19,Organic Red Helles,100,12
+301,Ben's Farm Shop - Totnes,26-Mar-19,Organic Red Helles,100,106
+305,The Kings Arms,26-Mar-19,Organic Red Helles,100,21
+300,Ashby's of Kingsbridge,27-Mar-19,Organic Red Helles,100,24
+300,Ashby's of Kingsbridge,27-Mar-19,Organic Red Helles,100,15
+304,Cafe Al Fresco,27-Mar-19,Organic Red Helles,100,18
+299,The Green Table Cafe,27-Mar-19,Organic Red Helles,100,8
+308,Ben's Farm Shop - Staverton,29-Mar-19,Organic Red Helles,100,11
+310,The Cheese Shed,03-Apr-19,Organic Red Helles,102,23
+313,The Green Table Cafe,06-Apr-19,Organic Red Helles,102,17
+320,The Live and Let Live,06-Apr-19,Organic Red Helles,102,9
+315,Majestic Wine Warehouse Ltd,10-Apr-19,Organic Red Helles,102,32
+317,Ben's Farm Shop - Staverton,11-Apr-19,Organic Red Helles,102,33
+322,Cafe Al Fresco,13-Apr-19,Organic Red Helles,102,36
+324,Dartmouth Wine Company,17-Apr-19,Organic Red Helles,102,9
+325,The Green Table Cafe,17-Apr-19,Organic Red Helles,102,27
+326,Ben's Farm Shop - Totnes,18-Apr-19,Organic Red Helles,102,23
+327,Ben's Farm Shop Exeter,20-Apr-19,Organic Red Helles,102,106
+328,Harvest Farm Shop,20-Apr-19,Organic Red Helles,102,13
+387,Barnaby's Brewhouse Promotions,27-Apr-19,Organic Red Helles,102,32
+334,The Kings Arms,27-Apr-19,Organic Red Helles,102,12
+341,Wildmoor Deli,01-May-19,Organic Red Helles,102,21
+339,Ben's Farm Shop - Staverton,02-May-19,Organic Red Helles,102,16
+337,Dartmouth Wine Company,02-May-19,Organic Red Helles,102,32
+336,Barnaby's Brewhouse Promotions,04-May-19,Organic Red Helles,102,13
+343,Dartington Trading Company Ltd,05-May-19,Organic Red Helles,102,12
+343,Dartington Trading Company Ltd,05-May-19,Organic Red Helles,102,17
+344,Ben's Farm Shop - Staverton,06-May-19,Organic Red Helles,102,17
+349,The Green Table Cafe,11-May-19,Organic Red Helles,102,10
+350,Broadhempston Community Shop,12-May-19,Organic Red Helles,102,9
+357,Ecommerce customer,12-May-19,Organic Red Helles,102,51
+352,Fermoys Garden Centre,12-May-19,Organic Red Helles,102,107
+354,VITAMINSEA,16-May-19,Organic Red Helles,102,9
+386,Barnaby Harris,17-May-19,Organic Red Helles,102,10
+359,Ben's Farm Shop - Staverton,17-May-19,Organic Red Helles,102,52
+360,Alder Vineyard,18-May-19,Organic Red Helles,102,12
+363,The Green Table Cafe,23-May-19,Organic Red Helles,102,18
+365,Ben's Farm Shop Exeter,25-May-19,Organic Red Helles,102,36
+364,Cafe Al Fresco,25-May-19,Organic Red Helles,102,20
+367,Ben's Farm Shop - Staverton,29-May-19,Organic Red Helles,102,21
+366,Real Food Exeter,30-May-19,Organic Red Helles,102,14
+374,Ben's Farm Shop - Yealmpton,30-May-19,Organic Red Helles,109,51
+373,Majestic Wine Warehouse Ltd,30-May-19,Organic Red Helles,109,34
+370,The Green Table Cafe,30-May-19,Organic Red Helles,109,15
+377,Happy Apple,01-Jun-19,Organic Red Helles,109,33
+376,The Kings Arms,01-Jun-19,Organic Red Helles,109,13
+378,Green Valley Cyder Ltd (Dart Farm),04-Jun-19,Organic Red Helles,109,11
+382,Happy Apple,05-Jun-19,Organic Red Helles,109,51
+381,Ashby's of Salcombe,07-Jun-19,Organic Red Helles,109,8
+383,The Naked Grape Wine Company,07-Jun-19,Organic Red Helles,109,30
+402,Johns of Appledore,09-Jun-19,Organic Red Helles,109,27
+403,Johns of Instow,09-Jun-19,Organic Red Helles,109,17
+390,Ben's Farm Shop - Staverton,10-Jun-19,Organic Red Helles,109,23
+391,Jaded Palates,15-Jun-19,Organic Red Helles,109,22
+393,The Green Table Cafe,16-Jun-19,Organic Red Helles,109,9
+395,Cafe Al Fresco,19-Jun-19,Organic Red Helles,109,16
+404,Green Valley Cyder Ltd (Dart Farm),21-Jun-19,Organic Red Helles,109,21
+405,Happy Apple,22-Jun-19,Organic Red Helles,109,14
+401,Ben's Farm Shop - Totnes,23-Jun-19,Organic Red Helles,102,17
+411,FOLS,23-Jun-19,Organic Red Helles,109,20
+407,Ben's Farm Shop - Staverton,25-Jun-19,Organic Red Helles,109,8
+422,Happy Apple,04-Jul-19,Organic Red Helles,109,29
+424,Ben's Farm Shop - Staverton,07-Jul-19,Organic Red Helles,109,20
+430,Ben's Farm Shop - Yealmpton,10-Jul-19,Organic Red Helles,109,20
+426,Ecommerce customer,10-Jul-19,Organic Red Helles,109,104
+434,Jaded Palates,10-Jul-19,Organic Red Helles,109,26
+432,The Kings Arms,10-Jul-19,Organic Red Helles,109,33
+436,Broadhempston Community Shop,12-Jul-19,Organic Red Helles,109,29
+517,Barnaby's Brewhouse Promotions,14-Jul-19,Organic Red Helles,109,22
+437,Cafe Al Fresco,18-Jul-19,Organic Red Helles,109,25
+443,Ben's Farm Shop - Yealmpton,19-Jul-19,Organic Red Helles,109,34
+445,Wildmoor Deli,19-Jul-19,Organic Red Helles,112,13
+446,Happy Apple,20-Jul-19,Organic Red Helles,112,30
+492,Barnaby's Brewhouse Promotions,21-Jul-19,Organic Red Helles,112,22
+450,The Green Table Cafe,25-Jul-19,Organic Red Helles,112,31
+452,Direct from Brewery,27-Jul-19,Organic Red Helles,112,32
+454,Ben's Farm Shop - Totnes,29-Jul-19,Organic Red Helles,112,104
+458,Ben's Farm Shop - Staverton,31-Jul-19,Organic Red Helles,112,18
+462,Ashby's of Salcombe,01-Aug-19,Organic Red Helles,112,29
+461,Majestic Wine Warehouse Ltd,01-Aug-19,Organic Red Helles,112,13
+460,South Sands Hotel,01-Aug-19,Organic Red Helles,112,11
+466,Button Farm,03-Aug-19,Organic Red Helles,112,20
+469,Darts Farm Ltd,03-Aug-19,Organic Red Helles,112,17
+463,Johns of Appledore,03-Aug-19,Organic Red Helles,112,33
+471,Barnaby Harris,04-Aug-19,Organic Red Helles,112,28
+473,Ben's Farm Shop - Staverton,07-Aug-19,Organic Red Helles,112,14
+472,Powderham Farm Shop,07-Aug-19,Organic Red Helles,112,107
+475,Roots and Vines,09-Aug-19,Organic Red Helles,112,33
+477,The Naked Grape Wine Company,09-Aug-19,Organic Red Helles,112,22
+481,Happy Apple,10-Aug-19,Organic Red Helles,112,28
+482,The Kings Arms,10-Aug-19,Organic Red Helles,112,104
+484,Dartington Trading Company Ltd,13-Aug-19,Organic Red Helles,112,21
+484,Dartington Trading Company Ltd,13-Aug-19,Organic Red Helles,112,10
+488,Cafe Al Fresco,17-Aug-19,Organic Red Helles,112,33
+487,Majestic Wine Warehouse Ltd,17-Aug-19,Organic Red Helles,112,18
+518,Barnaby's Brewhouse Promotions,18-Aug-19,Organic Red Helles,112,105
+493,Ben's Farm Shop - Staverton,20-Aug-19,Organic Red Helles,109,31
+495,Johns of Appledore,23-Aug-19,Organic Red Helles,112,51
+498,Ashby's of Kingsbridge,24-Aug-19,Organic Red Helles,112,105
+497,Powderham Farm Shop,24-Aug-19,Organic Red Helles,112,25
+504,Ben's Farm Shop - Staverton,25-Aug-19,Organic Red Helles,112,8
+508,Happy Apple,30-Aug-19,Organic Red Helles,109,16
+511,The Pig at Combe,30-Aug-19,Organic Red Helles,112,35
+519,Barnaby's Brewhouse Promotions,01-Sep-19,Organic Red Helles,112,11
+512,Johns of Instow,06-Sep-19,Organic Red Helles,112,51
+516,Jaded Palates,07-Sep-19,Organic Red Helles,112,11
+520,Barnaby's Brewhouse Promotions,08-Sep-19,Organic Red Helles,112,14
+522,The Green Table Cafe,12-Sep-19,Organic Red Helles,112,104
+523,Real Food Exeter,13-Sep-19,Organic Red Helles,112,11
+524,The Kings Arms,13-Sep-19,Organic Red Helles,112,30
+528,Happy Apple,18-Sep-19,Organic Red Helles,112,107
+525,The Pig at Combe,18-Sep-19,Organic Red Helles,112,27
+529,Ashby's of Salcombe,19-Sep-19,Organic Red Helles,112,10
+531,Ecommerce customer,25-Sep-19,Organic Red Helles,112,209
+533,Ecommerce customer,26-Sep-19,Organic Red Helles,112,11
+536,Real Food Exeter,03-Oct-19,Organic Red Helles,112,25
+539,Ben's Farm Shop - Staverton,04-Oct-19,Organic Red Helles,112,33
+541,The Kings Arms,05-Oct-19,Organic Red Helles,112,53
+543,Cafe Al Fresco,09-Oct-19,Organic Red Helles,109,25
+542,Ecommerce customer,09-Oct-19,Organic Red Helles,109,24
+550,Jaded Palates,12-Oct-19,Organic Red Helles,112,17
+547,Powderham Farm Shop,15-Oct-19,Organic Red Helles,112,9
+552,The Pig at Combe,15-Oct-19,Organic Red Helles,112,13
+583,Ecommerce customer,18-Oct-19,Organic Red Helles,109,13
+560,Ecommerce customer,18-Oct-19,Organic Red Helles,112,53
+557,Happy Apple,18-Oct-19,Organic Red Helles,112,14
+556,The Green Table Cafe,18-Oct-19,Organic Red Helles,112,13
+571,Ben's Farm Shop Exeter,22-Oct-19,Organic Red Helles,112,106
+563,Dartmoor Distillery,25-Oct-19,Organic Red Helles,112,22
+567,Darts Farm Ltd,25-Oct-19,Organic Red Helles,112,17
+562,Ben's Farm Shop - Staverton,26-Oct-19,Organic Red Helles,112,32
+573,Barnaby's Brewhouse Promotions,27-Oct-19,Organic Red Helles,112,23
+569,Ecommerce customer,30-Oct-19,Organic Red Helles,112,20
+570,Harvest Farm Shop,30-Oct-19,Organic Red Helles,112,17
+201,Riverford Organic Farmers Ltd,01-Nov-18,Organic Pilsner,87,18
+202,Jaded Palates,02-Nov-18,Organic Pilsner,87,25
+202,Jaded Palates,02-Nov-18,Organic Pilsner,87,20
+203,The Living Room Devon,03-Nov-18,Organic Pilsner,87,13
+205,Broadhempston Community Shop,09-Nov-18,Organic Pilsner,87,8
+207,Ben's Wine and Tapas,10-Nov-18,Organic Pilsner,87,20
+206,Martin Johns,10-Nov-18,Organic Pilsner,87,360
+208,Ben's Farm Shop - Staverton,14-Nov-18,Organic Pilsner,87,24
+210,The Kings Arms,14-Nov-18,Organic Pilsner,87,20
+211,The Curator Cafe,16-Nov-18,Organic Pilsner,87,23
+213,Jaded Palates,22-Nov-18,Organic Pilsner,87,24
+213,Jaded Palates,22-Nov-18,Organic Pilsner,87,20
+215,Riverford Dairy,22-Nov-18,Organic Pilsner,87,17
+212,Riverford Organic Farmers Ltd,22-Nov-18,Organic Pilsner,87,12
+214,The Green Table Cafe,22-Nov-18,Organic Pilsner,87,9
+217,Ben's Farm Shop - Totnes,25-Nov-18,Organic Pilsner,87,29
+216,Ben's Wine and Tapas,25-Nov-18,Organic Pilsner,87,28
+218,The Kings Arms,27-Nov-18,Organic Pilsner,87,21
+222,Riverford Field Kitchen,28-Nov-18,Organic Pilsner,87,19
+229,The Living Room Devon,01-Dec-18,Organic Pilsner,87,8
+223,Riverford Organic Farmers Ltd,05-Dec-18,Organic Pilsner,87,27
+228,Fermoys Garden Centre,06-Dec-18,Organic Pilsner,93,51
+228,Fermoys Garden Centre,06-Dec-18,Organic Pilsner,87,23
+224,The Curator Cafe,06-Dec-18,Organic Pilsner,93,34
+225,The Green Table Cafe,06-Dec-18,Organic Pilsner,93,21
+231,Ben's Farm Shop - Staverton,07-Dec-18,Organic Pilsner,93,24
+226,Broadhempston Community Shop,07-Dec-18,Organic Pilsner,93,23
+230,Ben's Farm Shop Exeter,08-Dec-18,Organic Pilsner,87,25
+232,Ben's Farm Shop Exeter,10-Dec-18,Organic Pilsner,93,32
+237,Colleen,13-Dec-18,Organic Pilsner,93,106
+234,Riverford Field Kitchen,13-Dec-18,Organic Pilsner,93,51
+235,Riverford Organic Farmers Ltd,13-Dec-18,Organic Pilsner,93,8
+236,The Green Table Cafe,13-Dec-18,Organic Pilsner,93,14
+242,The Living Room Devon,13-Dec-18,Organic Pilsner,93,53
+238,Button Farm,15-Dec-18,Organic Pilsner,93,7
+239,Martin Johns,15-Dec-18,Organic Pilsner,93,33
+241,Riverford Dairy,15-Dec-18,Organic Pilsner,93,24
+240,The Kings Arms,15-Dec-18,Organic Pilsner,93,34
+244,The Green Table Cafe,19-Dec-18,Organic Pilsner,93,33
+246,Ben's Farm Shop - Staverton,20-Dec-18,Organic Pilsner,93,106
+250,The Kings Arms,21-Dec-18,Organic Pilsner,93,22
+248,Bar Blah Blah,22-Dec-18,Organic Pilsner,93,10
+247,Bar Blah Blah,22-Dec-18,Organic Pilsner,93,220
+245,Ben's Wine and Tapas,22-Dec-18,Organic Pilsner,93,10
+249,Riverford Organic Farmers Ltd,22-Dec-18,Organic Pilsner,93,30
+251,Ben's Farm Shop - Staverton,24-Dec-18,Organic Pilsner,93,17
+254,Broadhempston Community Shop,05-Jan-19,Organic Pilsner,93,10
+253,The Curator Cafe,05-Jan-19,Organic Pilsner,93,15
+252,The Green Table Cafe,05-Jan-19,Organic Pilsner,93,33
+258,Ben's Wine and Tapas,10-Jan-19,Organic Pilsner,93,35
+255,Dartington Trading Company Ltd,10-Jan-19,Organic Pilsner,93,53
+256,Jaded Palates,12-Jan-19,Organic Pilsner,93,30
+257,Harvest Farm Shop,13-Jan-19,Organic Pilsner,93,22
+259,Riverford Field Kitchen,16-Jan-19,Organic Pilsner,93,107
+260,The Green Table Cafe,26-Jan-19,Organic Pilsner,93,35
+262,Buckfastleigh Cinema,03-Feb-19,Organic Pilsner,93,28
+261,The Kings Arms,03-Feb-19,Organic Pilsner,93,26
+263,Riverford Organic Farmers Ltd,06-Feb-19,Organic Pilsner,93,31
+264,Wildmoor Deli,06-Feb-19,Organic Pilsner,93,9
+265,Broadhempston Community Shop,08-Feb-19,Organic Pilsner,93,29
+271,Alexine,09-Feb-19,Organic Pilsner,93,31
+266,Ben's Wine and Tapas,09-Feb-19,Organic Pilsner,93,19
+269,Majestic Wine Warehouse Ltd,12-Feb-19,Organic Pilsner,101,529
+267,The Curator Cafe,12-Feb-19,Organic Pilsner,101,32
+268,Ben's Farm Shop - Staverton,13-Feb-19,Organic Pilsner,101,21
+274,Ashby's of Kingsbridge,16-Feb-19,Organic Pilsner,101,34
+273,Ben's Farm Shop - Totnes,16-Feb-19,Organic Pilsner,101,13
+272,The Green Table Cafe,16-Feb-19,Organic Pilsner,101,104
+279,Ben's Farm Shop - Staverton,20-Feb-19,Organic Pilsner,101,11
+278,Ben's Wine and Tapas,20-Feb-19,Organic Pilsner,101,23
+277,Riverford Field Kitchen,20-Feb-19,Organic Pilsner,101,21
+280,The Kings Arms,21-Feb-19,Organic Pilsner,101,25
+281,Harvest Farm Shop,24-Feb-19,Organic Pilsner,101,16
+284,Sharpham Partnership Ltd,26-Feb-19,Organic Pilsner,101,31
+283,The Curator Cafe,26-Feb-19,Organic Pilsner,101,11
+282,Gary Burton-Jackson,27-Feb-19,Organic Pilsner,101,32
+285,Ben's Farm Shop - Totnes,01-Mar-19,Organic Pilsner,101,23
+286,Fermoys Garden Centre,02-Mar-19,Organic Pilsner,101,35
+286,Fermoys Garden Centre,02-Mar-19,Organic Pilsner,101,30
+288,Barnaby Harris,08-Mar-19,Organic Pilsner,101,7
+287,Johns of Appledore,08-Mar-19,Organic Pilsner,101,9
+289,Ben's Wine and Tapas,09-Mar-19,Organic Pilsner,101,14
+290,Riverford Organic Farmers Ltd,09-Mar-19,Organic Pilsner,101,34
+291,The Curator Cafe,09-Mar-19,Organic Pilsner,101,52
+292,Martin Johns,10-Mar-19,Organic Pilsner,101,27
+293,Button Farm,13-Mar-19,Organic Pilsner,101,155
+295,Ben's Farm Shop - Staverton,14-Mar-19,Organic Pilsner,101,31
+294,Riverford Field Kitchen,14-Mar-19,Organic Pilsner,101,33
+297,Real Food Exeter,17-Mar-19,Organic Pilsner,101,27
+301,Ben's Farm Shop - Totnes,26-Mar-19,Organic Pilsner,101,15
+305,The Kings Arms,26-Mar-19,Organic Pilsner,101,17
+300,Ashby's of Kingsbridge,27-Mar-19,Organic Pilsner,101,14
+300,Ashby's of Kingsbridge,27-Mar-19,Organic Pilsner,101,14
+302,Ben's Wine and Tapas,27-Mar-19,Organic Pilsner,101,11
+306,Henry's Bar,27-Mar-19,Organic Pilsner,101,8
+298,Jaded Palates,27-Mar-19,Organic Pilsner,101,27
+299,The Green Table Cafe,27-Mar-19,Organic Pilsner,101,18
+303,Vivo Wines Ltd,27-Mar-19,Organic Pilsner,101,106
+308,Ben's Farm Shop - Staverton,29-Mar-19,Organic Pilsner,101,31
+307,Riverford Organic Farmers Ltd,30-Mar-19,Organic Pilsner,101,105
+309,Ben's Wine and Tapas,01-Apr-19,Organic Pilsner,101,12
+311,Riverford Field Kitchen,04-Apr-19,Organic Pilsner,101,16
+312,Buckfastleigh Cinema,06-Apr-19,Organic Pilsner,104,17
+313,The Green Table Cafe,06-Apr-19,Organic Pilsner,104,11
+320,The Live and Let Live,06-Apr-19,Organic Pilsner,104,19
+315,Majestic Wine Warehouse Ltd,10-Apr-19,Organic Pilsner,101,105
+317,Ben's Farm Shop - Staverton,11-Apr-19,Organic Pilsner,104,11
+318,Martin Johns,11-Apr-19,Organic Pilsner,104,19
+316,The Curator Cafe,11-Apr-19,Organic Pilsner,104,19
+319,Jaded Palates,12-Apr-19,Organic Pilsner,104,10
+321,Vivo Wines Ltd,13-Apr-19,Organic Pilsner,104,7
+324,Dartmouth Wine Company,17-Apr-19,Organic Pilsner,104,28
+323,Riverford Field Kitchen,17-Apr-19,Organic Pilsner,104,9
+325,The Green Table Cafe,17-Apr-19,Organic Pilsner,104,28
+326,Ben's Farm Shop - Totnes,18-Apr-19,Organic Pilsner,104,24
+327,Ben's Farm Shop Exeter,20-Apr-19,Organic Pilsner,104,23
+328,Harvest Farm Shop,20-Apr-19,Organic Pilsner,104,105
+329,Sea Light Gallery Cafe ,20-Apr-19,Organic Pilsner,104,16
+332,The Green Table Cafe,25-Apr-19,Organic Pilsner,104,12
+331,Vivo Wines Ltd,25-Apr-19,Organic Pilsner,104,52
+330,Ben's Wine and Tapas,26-Apr-19,Organic Pilsner,104,105
+333,Riverford Organic Farmers Ltd,26-Apr-19,Organic Pilsner,104,34
+387,Barnaby's Brewhouse Promotions,27-Apr-19,Organic Pilsner,104,17
+387,Barnaby's Brewhouse Promotions,27-Apr-19,Organic Pilsner,106,30
+334,The Kings Arms,27-Apr-19,Organic Pilsner,104,12
+335,The Curator Cafe,28-Apr-19,Organic Pilsner,104,9
+341,Wildmoor Deli,01-May-19,Organic Pilsner,104,106
+339,Ben's Farm Shop - Staverton,02-May-19,Organic Pilsner,104,13
+337,Dartmouth Wine Company,02-May-19,Organic Pilsner,104,8
+338,The Green Table Cafe,03-May-19,Organic Pilsner,104,52
+351,Alexine,04-May-19,Organic Pilsner,104,24
+336,Barnaby's Brewhouse Promotions,04-May-19,Organic Pilsner,104,8
+340,Johns of Appledore,04-May-19,Organic Pilsner,104,31
+342,Sharpham Partnership Ltd,04-May-19,Organic Pilsner,104,18
+343,Dartington Trading Company Ltd,05-May-19,Organic Pilsner,104,32
+343,Dartington Trading Company Ltd,05-May-19,Organic Pilsner,104,10
+344,Ben's Farm Shop - Staverton,06-May-19,Organic Pilsner,104,21
+345,Ben's Wine and Tapas,10-May-19,Organic Pilsner,104,53
+348,Riverford Field Kitchen,11-May-19,Organic Pilsner,104,35
+349,The Green Table Cafe,11-May-19,Organic Pilsner,104,9
+350,Broadhempston Community Shop,12-May-19,Organic Pilsner,104,32
+357,Ecommerce customer,12-May-19,Organic Pilsner,104,13
+352,Fermoys Garden Centre,12-May-19,Organic Pilsner,104,25
+355,Ben's Wine and Tapas,15-May-19,Organic Pilsner,104,15
+356,The Green Table Cafe,15-May-19,Organic Pilsner,104,25
+353,Dartmouth Wine Company,16-May-19,Organic Pilsner,104,106
+354,VITAMINSEA,16-May-19,Organic Pilsner,104,19
+386,Barnaby Harris,17-May-19,Organic Pilsner,104,19
+359,Ben's Farm Shop - Staverton,17-May-19,Organic Pilsner,104,9
+360,Alder Vineyard,18-May-19,Organic Pilsner,104,16
+358,Real Food Exeter,18-May-19,Organic Pilsner,104,9
+361,The Curator Cafe,18-May-19,Organic Pilsner,104,51
+363,The Green Table Cafe,23-May-19,Organic Pilsner,104,24
+362,Vivo Wines Ltd,23-May-19,Organic Pilsner,104,30
+365,Ben's Farm Shop Exeter,25-May-19,Organic Pilsner,104,53
+375,Ben's Farm Shop - Totnes,26-May-19,Organic Pilsner,108,19
+367,Ben's Farm Shop - Staverton,29-May-19,Organic Pilsner,104,53
+374,Ben's Farm Shop - Yealmpton,30-May-19,Organic Pilsner,108,26
+373,Majestic Wine Warehouse Ltd,30-May-19,Organic Pilsner,108,27
+368,Riverford Organic Farmers Ltd,30-May-19,Organic Pilsner,108,11
+371,Sharpham Partnership Ltd,30-May-19,Organic Pilsner,108,30
+372,The Curator Cafe,30-May-19,Organic Pilsner,101,22
+370,The Green Table Cafe,30-May-19,Organic Pilsner,108,52
+377,Happy Apple,01-Jun-19,Organic Pilsner,108,20
+376,The Kings Arms,01-Jun-19,Organic Pilsner,108,21
+378,Green Valley Cyder Ltd (Dart Farm),04-Jun-19,Organic Pilsner,108,52
+380,Ben's Wine and Tapas,05-Jun-19,Organic Pilsner,108,107
+382,Happy Apple,05-Jun-19,Organic Pilsner,108,100
+379,Riverford Organic Farmers Ltd,05-Jun-19,Organic Pilsner,108,52
+381,Ashby's of Salcombe,07-Jun-19,Organic Pilsner,108,16
+384,Broadhempston Community Shop,07-Jun-19,Organic Pilsner,108,33
+383,The Naked Grape Wine Company,07-Jun-19,Organic Pilsner,108,28
+385,Riverford Organic Farmers Ltd,08-Jun-19,Organic Pilsner,108,15
+402,Johns of Appledore,09-Jun-19,Organic Pilsner,106,31
+403,Johns of Instow,09-Jun-19,Organic Pilsner,106,105
+390,Ben's Farm Shop - Staverton,10-Jun-19,Organic Pilsner,106,104
+388,Vivo Wines Ltd,14-Jun-19,Organic Pilsner,106,175
+394,The Curator Cafe,16-Jun-19,Organic Pilsner,106,31
+393,The Green Table Cafe,16-Jun-19,Organic Pilsner,106,13
+392,Ben's Wine and Tapas,17-Jun-19,Organic Pilsner,104,19
+395,Cafe Al Fresco,19-Jun-19,Organic Pilsner,106,104
+396,Cru Events,19-Jun-19,Organic Pilsner,106,15
+398,Riverford Field Kitchen,19-Jun-19,Organic Pilsner,106,18
+397,Sharpham Partnership Ltd,19-Jun-19,Organic Pilsner,106,19
+399,The Green Table Cafe,19-Jun-19,Organic Pilsner,106,106
+404,Green Valley Cyder Ltd (Dart Farm),21-Jun-19,Organic Pilsner,106,106
+405,Happy Apple,22-Jun-19,Organic Pilsner,106,26
+400,VITAMINSEA,22-Jun-19,Organic Pilsner,106,30
+406,Vivo Wines Ltd,22-Jun-19,Organic Pilsner,106,52
+401,Ben's Farm Shop - Totnes,23-Jun-19,Organic Pilsner,106,52
+411,FOLS,23-Jun-19,Organic Pilsner,106,10
+407,Ben's Farm Shop - Staverton,25-Jun-19,Organic Pilsner,106,53
+413,Dart Pleasure Craft,27-Jun-19,Organic Pilsner,106,23
+412,Real Food Exeter,27-Jun-19,Organic Pilsner,106,32
+415,The Curator Cafe,27-Jun-19,Organic Pilsner,108,17
+416,The Green Table Cafe,27-Jun-19,Organic Pilsner,106,25
+419,Majestic Wine Warehouse Ltd,29-Jun-19,Organic Pilsner,106,13
+422,Happy Apple,04-Jul-19,Organic Pilsner,106,27
+433,Sea Light Gallery Cafe ,06-Jul-19,Organic Pilsner,113,52
+424,Ben's Farm Shop - Staverton,07-Jul-19,Organic Pilsner,106,15
+425,The Green Table Cafe,07-Jul-19,Organic Pilsner,113,104
+429,Ben's Wine and Tapas,09-Jul-19,Organic Pilsner,113,106
+427,Riverford Field Kitchen,09-Jul-19,Organic Pilsner,113,28
+421,Riverford Organic Farmers Ltd,09-Jul-19,Organic Pilsner,106,20
+421,Riverford Organic Farmers Ltd,09-Jul-19,Organic Pilsner,106,21
+421,Riverford Organic Farmers Ltd,09-Jul-19,Organic Pilsner,113,16
+428,The Green Table Cafe,09-Jul-19,Organic Pilsner,114,33
+435,Ben's Farm Shop - Staverton,10-Jul-19,Organic Pilsner,113,33
+431,Ben's Farm Shop - Totnes,10-Jul-19,Organic Pilsner,113,7
+430,Ben's Farm Shop - Yealmpton,10-Jul-19,Organic Pilsner,114,30
+434,Jaded Palates,10-Jul-19,Organic Pilsner,113,27
+432,The Kings Arms,10-Jul-19,Organic Pilsner,113,19
+436,Broadhempston Community Shop,12-Jul-19,Organic Pilsner,113,31
+517,Barnaby's Brewhouse Promotions,14-Jul-19,Organic Pilsner,114,10
+439,Riverford Field Kitchen,17-Jul-19,Organic Pilsner,108,36
+423,Vivo Wines Ltd,18-Jul-19,Organic Pilsner,113,51
+444,Ben's Farm Shop - Staverton,19-Jul-19,Organic Pilsner,113,8
+443,Ben's Farm Shop - Yealmpton,19-Jul-19,Organic Pilsner,113,9
+442,Ben's Wine and Tapas,19-Jul-19,Organic Pilsner,113,25
+445,Wildmoor Deli,19-Jul-19,Organic Pilsner,113,105
+449,Bar Blah Blah,20-Jul-19,Organic Pilsner,113,51
+446,Happy Apple,20-Jul-19,Organic Pilsner,113,16
+440,Riverford Organic Farmers Ltd,20-Jul-19,Organic Pilsner,113,9
+448,The Curator Cafe,20-Jul-19,Organic Pilsner,113,22
+441,VITAMINSEA,20-Jul-19,Organic Pilsner,113,104
+447,Vivo Wines Ltd,20-Jul-19,Organic Pilsner,113,34
+492,Barnaby's Brewhouse Promotions,21-Jul-19,Organic Pilsner,113,26
+450,The Green Table Cafe,25-Jul-19,Organic Pilsner,113,32
+453,Ben's Wine and Tapas,27-Jul-19,Organic Pilsner,113,18
+452,Direct from Brewery,27-Jul-19,Organic Pilsner,113,53
+456,Sharpham Partnership Ltd,30-Jul-19,Organic Pilsner,113,27
+457,The Green Table Cafe,30-Jul-19,Organic Pilsner,113,210
+458,Ben's Farm Shop - Staverton,31-Jul-19,Organic Pilsner,113,16
+455,VITAMINSEA,31-Jul-19,Organic Pilsner,113,23
+462,Ashby's of Salcombe,01-Aug-19,Organic Pilsner,114,104
+461,Majestic Wine Warehouse Ltd,01-Aug-19,Organic Pilsner,114,33
+464,Riverford Field Kitchen,02-Aug-19,Organic Pilsner,114,18
+465,Riverford Organic Farmers Ltd,02-Aug-19,Organic Pilsner,114,27
+466,Button Farm,03-Aug-19,Organic Pilsner,114,14
+469,Darts Farm Ltd,03-Aug-19,Organic Pilsner,114,53
+463,Johns of Appledore,03-Aug-19,Organic Pilsner,114,106
+467,The Curator Cafe,03-Aug-19,Organic Pilsner,114,12
+468,Wildmoor Deli,03-Aug-19,Organic Pilsner,114,21
+471,Barnaby Harris,04-Aug-19,Organic Pilsner,114,104
+470,Vivo Wines Ltd,04-Aug-19,Organic Pilsner,114,28
+473,Ben's Farm Shop - Staverton,07-Aug-19,Organic Pilsner,115,31
+474,Ben's Wine and Tapas,07-Aug-19,Organic Pilsner,115,106
+472,Powderham Farm Shop,07-Aug-19,Organic Pilsner,114,11
+478,Broadhempston Community Shop,09-Aug-19,Organic Pilsner,106,29
+475,Roots and Vines,09-Aug-19,Organic Pilsner,115,52
+476,Sea Light Gallery Cafe ,09-Aug-19,Organic Pilsner,115,17
+477,The Naked Grape Wine Company,09-Aug-19,Organic Pilsner,106,27
+479,Ben's Farm Shop - Totnes,10-Aug-19,Organic Pilsner,115,22
+481,Happy Apple,10-Aug-19,Organic Pilsner,115,11
+480,Jaded Palates,10-Aug-19,Organic Pilsner,115,16
+483,The Green Table Cafe,10-Aug-19,Organic Pilsner,115,107
+482,The Kings Arms,10-Aug-19,Organic Pilsner,115,29
+484,Dartington Trading Company Ltd,13-Aug-19,Organic Pilsner,115,17
+484,Dartington Trading Company Ltd,13-Aug-19,Organic Pilsner,115,36
+485,Riverford Field Kitchen,15-Aug-19,Organic Pilsner,115,29
+486,The Green Table Cafe,15-Aug-19,Organic Pilsner,115,34
+489,Dart Pleasure Craft,17-Aug-19,Organic Pilsner,115,15
+487,Majestic Wine Warehouse Ltd,17-Aug-19,Organic Pilsner,115,19
+490,Sharpham Partnership Ltd,17-Aug-19,Organic Pilsner,115,27
+491,The Curator Cafe,17-Aug-19,Organic Pilsner,115,19
+518,Barnaby's Brewhouse Promotions,18-Aug-19,Organic Pilsner,106,104
+493,Ben's Farm Shop - Staverton,20-Aug-19,Organic Pilsner,115,14
+494,The Green Table Cafe,21-Aug-19,Organic Pilsner,115,23
+495,Johns of Appledore,23-Aug-19,Organic Pilsner,115,12
+498,Ashby's of Kingsbridge,24-Aug-19,Organic Pilsner,116,51
+496,Ben's Wine and Tapas,24-Aug-19,Organic Pilsner,115,31
+499,Martin Johns,24-Aug-19,Organic Pilsner,116,36
+505,"Michael Lovelock, Party in the Park",24-Aug-19,Organic Pilsner,116,170
+497,Powderham Farm Shop,24-Aug-19,Organic Pilsner,115,11
+501,The Curator Cafe,24-Aug-19,Organic Pilsner,116,52
+500,Vivo Wines Ltd,24-Aug-19,Organic Pilsner,116,7
+504,Ben's Farm Shop - Staverton,25-Aug-19,Organic Pilsner,116,28
+506,Riverford Field Kitchen,29-Aug-19,Organic Pilsner,116,15
+510,Ben's Farm Shop - Totnes,30-Aug-19,Organic Pilsner,116,35
+508,Happy Apple,30-Aug-19,Organic Pilsner,116,22
+507,The Green Table Cafe,30-Aug-19,Organic Pilsner,116,105
+511,The Pig at Combe,30-Aug-19,Organic Pilsner,116,14
+519,Barnaby's Brewhouse Promotions,01-Sep-19,Organic Pilsner,116,34
+512,Johns of Instow,06-Sep-19,Organic Pilsner,116,29
+514,Riverford Field Kitchen,06-Sep-19,Organic Pilsner,116,28
+513,Riverford Organic Farmers Ltd,06-Sep-19,Organic Pilsner,116,105
+515,Ben's Wine and Tapas,07-Sep-19,Organic Pilsner,116,28
+516,Jaded Palates,07-Sep-19,Organic Pilsner,116,28
+520,Barnaby's Brewhouse Promotions,08-Sep-19,Organic Pilsner,116,22
+521,Sharpham Partnership Ltd,12-Sep-19,Organic Pilsner,116,11
+522,The Green Table Cafe,12-Sep-19,Organic Pilsner,116,10
+523,Real Food Exeter,13-Sep-19,Organic Pilsner,116,34
+524,The Kings Arms,13-Sep-19,Organic Pilsner,116,18
+526,Ben's Wine and Tapas,18-Sep-19,Organic Pilsner,116,8
+528,Happy Apple,18-Sep-19,Organic Pilsner,116,24
+527,The Green Table Cafe,18-Sep-19,Organic Pilsner,116,16
+525,The Pig at Combe,18-Sep-19,Organic Pilsner,116,10
+529,Ashby's of Salcombe,19-Sep-19,Organic Pilsner,116,16
+530,Riverford Field Kitchen,21-Sep-19,Organic Pilsner,118,32
+531,Ecommerce customer,25-Sep-19,Organic Pilsner,118,17
+533,Ecommerce customer,26-Sep-19,Organic Pilsner,118,52
+535,The Pig at Combe,28-Sep-19,Organic Pilsner,118,10
+534,Generating Steam Heat,29-Sep-19,Organic Pilsner,118,22
+540,Ben's Wine and Tapas,02-Oct-19,Organic Pilsner,118,21
+537,Edington Farm Shop,02-Oct-19,Organic Pilsner,118,29
+536,Real Food Exeter,03-Oct-19,Organic Pilsner,118,11
+538,The Pig at Combe,03-Oct-19,Organic Pilsner,118,8
+539,Ben's Farm Shop - Staverton,04-Oct-19,Organic Pilsner,118,35
+541,The Kings Arms,05-Oct-19,Organic Pilsner,118,34
+542,Ecommerce customer,09-Oct-19,Organic Pilsner,118,35
+544,Ben's Farm Shop - Staverton,11-Oct-19,Organic Pilsner,118,53
+546,Martin Johns,11-Oct-19,Organic Pilsner,118,28
+545,The Green Table Cafe,11-Oct-19,Organic Pilsner,118,104
+550,Jaded Palates,12-Oct-19,Organic Pilsner,118,9
+549,Rafikis,12-Oct-19,Organic Pilsner,118,12
+547,Powderham Farm Shop,15-Oct-19,Organic Pilsner,118,15
+551,Riverford Organic Farmers Ltd,15-Oct-19,Organic Pilsner,118,19
+552,The Pig at Combe,15-Oct-19,Organic Pilsner,118,23
+553,Johns of Instow,17-Oct-19,Organic Pilsner,118,19
+555,Riverford Field Kitchen,17-Oct-19,Organic Pilsner,118,9
+559,Ben's Farm Shop - Totnes,18-Oct-19,Organic Pilsner,118,36
+561,Ben's Wine and Tapas,18-Oct-19,Organic Pilsner,118,12
+583,Ecommerce customer,18-Oct-19,Organic Pilsner,115,12
+560,Ecommerce customer,18-Oct-19,Organic Pilsner,115,21
+560,Ecommerce customer,18-Oct-19,Organic Pilsner,118,19
+560,Ecommerce customer,18-Oct-19,Organic Pilsner,123,11
+557,Happy Apple,18-Oct-19,Organic Pilsner,118,27
+558,The Curator Cafe,18-Oct-19,Organic Pilsner,118,9
+556,The Green Table Cafe,18-Oct-19,Organic Pilsner,118,11
+554,WaterAid,18-Oct-19,Organic Pilsner,118,19
+571,Ben's Farm Shop Exeter,22-Oct-19,Organic Pilsner,123,53
+563,Dartmoor Distillery,25-Oct-19,Organic Pilsner,118,29
+567,Darts Farm Ltd,25-Oct-19,Organic Pilsner,118,11
+566,The Green Table Cafe,25-Oct-19,Organic Pilsner,118,51
+568,The Pig at Combe,25-Oct-19,Organic Pilsner,118,31
+564,Wildmoor Deli,25-Oct-19,Organic Pilsner,118,13
+562,Ben's Farm Shop - Staverton,26-Oct-19,Organic Pilsner,116,32
+573,Barnaby's Brewhouse Promotions,27-Oct-19,Organic Pilsner,106,10
+565,Generating Steam Heat,27-Oct-19,Organic Pilsner,118,31
+569,Ecommerce customer,30-Oct-19,Organic Pilsner,123,32
+570,Harvest Farm Shop,30-Oct-19,Organic Pilsner,118,107
+572,Home Farm Cafe,30-Oct-19,Organic Pilsner,123,19
+202,Jaded Palates,02-Nov-18,Organic Dunkel,94,30
+210,The Kings Arms,14-Nov-18,Organic Dunkel,88,7
+220,Riverford Field Kitchen,16-Nov-18,Organic Dunkel,94,29
+221,Riverford Organic Farmers Ltd,16-Nov-18,Organic Dunkel,94,25
+213,Jaded Palates,22-Nov-18,Organic Dunkel,94,31
+215,Riverford Dairy,22-Nov-18,Organic Dunkel,94,26
+217,Ben's Farm Shop - Totnes,25-Nov-18,Organic Dunkel,94,34
+218,The Kings Arms,27-Nov-18,Organic Dunkel,94,19
+228,Fermoys Garden Centre,06-Dec-18,Organic Dunkel,94,13
+228,Fermoys Garden Centre,06-Dec-18,Organic Dunkel,94,29
+230,Ben's Farm Shop Exeter,08-Dec-18,Organic Dunkel,94,35
+232,Ben's Farm Shop Exeter,10-Dec-18,Organic Dunkel,94,10
+237,Colleen,13-Dec-18,Organic Dunkel,94,24
+241,Riverford Dairy,15-Dec-18,Organic Dunkel,94,19
+240,The Kings Arms,15-Dec-18,Organic Dunkel,94,22
+246,Ben's Farm Shop - Staverton,20-Dec-18,Organic Dunkel,94,15
+250,The Kings Arms,21-Dec-18,Organic Dunkel,94,53
+251,Ben's Farm Shop - Staverton,24-Dec-18,Organic Dunkel,94,26
+254,Broadhempston Community Shop,05-Jan-19,Organic Dunkel,94,7
+252,The Green Table Cafe,05-Jan-19,Organic Dunkel,94,15
+255,Dartington Trading Company Ltd,10-Jan-19,Organic Dunkel,94,29
+257,Harvest Farm Shop,13-Jan-19,Organic Dunkel,94,13
+260,The Green Table Cafe,26-Jan-19,Organic Dunkel,94,14
+261,The Kings Arms,03-Feb-19,Organic Dunkel,94,19
+271,Alexine,09-Feb-19,Organic Dunkel,94,33
+269,Majestic Wine Warehouse Ltd,12-Feb-19,Organic Dunkel,94,28
+274,Ashby's of Kingsbridge,16-Feb-19,Organic Dunkel,94,23
+273,Ben's Farm Shop - Totnes,16-Feb-19,Organic Dunkel,94,21
+276,The Green Table Cafe,20-Feb-19,Organic Dunkel,94,35
+280,The Kings Arms,21-Feb-19,Organic Dunkel,94,105
+282,Gary Burton-Jackson,27-Feb-19,Organic Dunkel,94,105
+286,Fermoys Garden Centre,02-Mar-19,Organic Dunkel,94,106
+286,Fermoys Garden Centre,02-Mar-19,Organic Dunkel,94,28
+288,Barnaby Harris,08-Mar-19,Organic Dunkel,94,33
+287,Johns of Appledore,08-Mar-19,Organic Dunkel,94,21
+293,Button Farm,13-Mar-19,Organic Dunkel,94,105
+297,Real Food Exeter,17-Mar-19,Organic Dunkel,94,31
+301,Ben's Farm Shop - Totnes,26-Mar-19,Organic Dunkel,94,31
+305,The Kings Arms,26-Mar-19,Organic Dunkel,94,22
+300,Ashby's of Kingsbridge,27-Mar-19,Organic Dunkel,94,28
+300,Ashby's of Kingsbridge,27-Mar-19,Organic Dunkel,94,29
+308,Ben's Farm Shop - Staverton,29-Mar-19,Organic Dunkel,94,19
+313,The Green Table Cafe,06-Apr-19,Organic Dunkel,94,9
+320,The Live and Let Live,06-Apr-19,Organic Dunkel,94,13
+315,Majestic Wine Warehouse Ltd,10-Apr-19,Organic Dunkel,94,15
+324,Dartmouth Wine Company,17-Apr-19,Organic Dunkel,94,17
+325,The Green Table Cafe,17-Apr-19,Organic Dunkel,94,30
+326,Ben's Farm Shop - Totnes,18-Apr-19,Organic Dunkel,94,107
+327,Ben's Farm Shop Exeter,20-Apr-19,Organic Dunkel,94,10
+387,Barnaby's Brewhouse Promotions,27-Apr-19,Organic Dunkel,94,11
+334,The Kings Arms,27-Apr-19,Organic Dunkel,94,14
+341,Wildmoor Deli,01-May-19,Organic Dunkel,94,25
+339,Ben's Farm Shop - Staverton,02-May-19,Organic Dunkel,94,32
+337,Dartmouth Wine Company,02-May-19,Organic Dunkel,94,9
+336,Barnaby's Brewhouse Promotions,04-May-19,Organic Dunkel,94,29
+343,Dartington Trading Company Ltd,05-May-19,Organic Dunkel,94,26
+343,Dartington Trading Company Ltd,05-May-19,Organic Dunkel,94,18
+344,Ben's Farm Shop - Staverton,06-May-19,Organic Dunkel,94,15
+357,Ecommerce customer,12-May-19,Organic Dunkel,94,20
+352,Fermoys Garden Centre,12-May-19,Organic Dunkel,94,20
+354,VITAMINSEA,16-May-19,Organic Dunkel,94,11
+360,Alder Vineyard,18-May-19,Organic Dunkel,94,9
+358,Real Food Exeter,18-May-19,Organic Dunkel,94,10
+363,The Green Table Cafe,23-May-19,Organic Dunkel,94,26
+365,Ben's Farm Shop Exeter,25-May-19,Organic Dunkel,94,18
+367,Ben's Farm Shop - Staverton,29-May-19,Organic Dunkel,94,21
+374,Ben's Farm Shop - Yealmpton,30-May-19,Organic Dunkel,94,8
+373,Majestic Wine Warehouse Ltd,30-May-19,Organic Dunkel,94,20
+370,The Green Table Cafe,30-May-19,Organic Dunkel,94,34
+377,Happy Apple,01-Jun-19,Organic Dunkel,94,31
+378,Green Valley Cyder Ltd (Dart Farm),04-Jun-19,Organic Dunkel,94,13
+407,Ben's Farm Shop - Staverton,25-Jun-19,Organic Dunkel,111,24
+408,Green Valley Cyder Ltd (Dart Farm),26-Jun-19,Organic Dunkel,111,106
+410,Pig and Pickle,26-Jun-19,Organic Dunkel,111,21
+414,Happy Apple,27-Jun-19,Organic Dunkel,111,8
+412,Real Food Exeter,27-Jun-19,Organic Dunkel,111,9
+416,The Green Table Cafe,27-Jun-19,Organic Dunkel,111,8
+417,Broadhempston Community Shop,28-Jun-19,Organic Dunkel,111,19
+420,Ashby's of Salcombe,02-Jul-19,Organic Dunkel,111,107
+424,Ben's Farm Shop - Staverton,07-Jul-19,Organic Dunkel,111,34
+430,Ben's Farm Shop - Yealmpton,10-Jul-19,Organic Dunkel,111,12
+432,The Kings Arms,10-Jul-19,Organic Dunkel,111,22
+517,Barnaby's Brewhouse Promotions,14-Jul-19,Organic Dunkel,111,17
+437,Cafe Al Fresco,18-Jul-19,Organic Dunkel,111,51
+443,Ben's Farm Shop - Yealmpton,19-Jul-19,Organic Dunkel,111,20
+445,Wildmoor Deli,19-Jul-19,Organic Dunkel,111,106
+446,Happy Apple,20-Jul-19,Organic Dunkel,111,27
+492,Barnaby's Brewhouse Promotions,21-Jul-19,Organic Dunkel,111,33
+450,The Green Table Cafe,25-Jul-19,Organic Dunkel,111,32
+452,Direct from Brewery,27-Jul-19,Organic Dunkel,111,8
+458,Ben's Farm Shop - Staverton,31-Jul-19,Organic Dunkel,111,22
+462,Ashby's of Salcombe,01-Aug-19,Organic Dunkel,111,16
+460,South Sands Hotel,01-Aug-19,Organic Dunkel,111,28
+466,Button Farm,03-Aug-19,Organic Dunkel,111,30
+469,Darts Farm Ltd,03-Aug-19,Organic Dunkel,111,27
+463,Johns of Appledore,03-Aug-19,Organic Dunkel,111,36
+471,Barnaby Harris,04-Aug-19,Organic Dunkel,111,33
+473,Ben's Farm Shop - Staverton,07-Aug-19,Organic Dunkel,111,23
+472,Powderham Farm Shop,07-Aug-19,Organic Dunkel,111,51
+478,Broadhempston Community Shop,09-Aug-19,Organic Dunkel,111,8
+475,Roots and Vines,09-Aug-19,Organic Dunkel,111,32
+477,The Naked Grape Wine Company,09-Aug-19,Organic Dunkel,111,52
+481,Happy Apple,10-Aug-19,Organic Dunkel,111,51
+480,Jaded Palates,10-Aug-19,Organic Dunkel,111,31
+482,The Kings Arms,10-Aug-19,Organic Dunkel,111,12
+484,Dartington Trading Company Ltd,13-Aug-19,Organic Dunkel,111,10
+484,Dartington Trading Company Ltd,13-Aug-19,Organic Dunkel,111,20
+487,Majestic Wine Warehouse Ltd,17-Aug-19,Organic Dunkel,111,23
+518,Barnaby's Brewhouse Promotions,18-Aug-19,Organic Dunkel,111,27
+493,Ben's Farm Shop - Staverton,20-Aug-19,Organic Dunkel,111,53
+497,Powderham Farm Shop,24-Aug-19,Organic Dunkel,111,104
+504,Ben's Farm Shop - Staverton,25-Aug-19,Organic Dunkel,111,22
+511,The Pig at Combe,30-Aug-19,Organic Dunkel,111,25
+519,Barnaby's Brewhouse Promotions,01-Sep-19,Organic Dunkel,111,52
+516,Jaded Palates,07-Sep-19,Organic Dunkel,111,30
+520,Barnaby's Brewhouse Promotions,08-Sep-19,Organic Dunkel,111,52
+523,Real Food Exeter,13-Sep-19,Organic Dunkel,111,36
+524,The Kings Arms,13-Sep-19,Organic Dunkel,111,21
+525,The Pig at Combe,18-Sep-19,Organic Dunkel,111,25
+531,Ecommerce customer,25-Sep-19,Organic Dunkel,111,104
+533,Ecommerce customer,26-Sep-19,Organic Dunkel,111,107
+536,Real Food Exeter,03-Oct-19,Organic Dunkel,111,29
+539,Ben's Farm Shop - Staverton,04-Oct-19,Organic Dunkel,111,30
+541,The Kings Arms,05-Oct-19,Organic Dunkel,111,35
+542,Ecommerce customer,09-Oct-19,Organic Dunkel,111,10
+550,Jaded Palates,12-Oct-19,Organic Dunkel,111,26
+547,Powderham Farm Shop,15-Oct-19,Organic Dunkel,111,104
+559,Ben's Farm Shop - Totnes,18-Oct-19,Organic Dunkel,111,18
+583,Ecommerce customer,18-Oct-19,Organic Dunkel,111,20
+560,Ecommerce customer,18-Oct-19,Organic Dunkel,111,53
+556,The Green Table Cafe,18-Oct-19,Organic Dunkel,111,18
+571,Ben's Farm Shop Exeter,22-Oct-19,Organic Dunkel,111,29
+563,Dartmoor Distillery,25-Oct-19,Organic Dunkel,111,8
+567,Darts Farm Ltd,25-Oct-19,Organic Dunkel,111,32
+568,The Pig at Combe,25-Oct-19,Organic Dunkel,111,9
+564,Wildmoor Deli,25-Oct-19,Organic Dunkel,111,21
+573,Barnaby's Brewhouse Promotions,27-Oct-19,Organic Dunkel,111,53
+569,Ecommerce customer,30-Oct-19,Organic Dunkel,111,24
+570,Harvest Farm Shop,30-Oct-19,Organic Dunkel,111,52
